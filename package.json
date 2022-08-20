@@ -1,0 +1,12 @@
+{
+  "name": "the_code",
+  "version": "1.0.0",
+  "description": "'idk stuff'",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "'David Nishikawa'",
+  "license": "copyleft-next-0.3.1",
+  "dependencies": {}
+}
