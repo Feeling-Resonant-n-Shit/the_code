@@ -127,3 +127,19 @@ git commit -m 'breathe'
 git add -A;git commit -m'look at the scenery!' ## and don't you worry hun, copypaste!
 # and don't you worry hun
 
+# where'd that bug go?
+
+git remote get-url origin
+git fetch origin
+git status
+# git diff?
+# git add -A
+# # git status
+# git commit -'mwot?'
+# git status
+
+git log
+q[Enter]
+
+git add -A
+git commit -m"[WIP] aye so many bugs i'/ll get to this later"
