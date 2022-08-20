@@ -21,4 +21,4 @@ do you trust me?
 
 how rash
 
-but if you consent, [welcome](github repo)
+but if you consent, [Welcome!](github repo)
