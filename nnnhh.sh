@@ -80,3 +80,5 @@ chmod u+x nnnhh.sh
 'look around for questions'
 
 
+
+"don't be afraid to ask for help!"
