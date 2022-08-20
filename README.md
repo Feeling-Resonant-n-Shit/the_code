@@ -9,7 +9,7 @@ feel free to look around!
 you'll find me in most friendly repositories
 i help you get oriented
 
-check me out online, [here](github repo)
+check me out online, [here](https://github.com/Feeling-Resonant-n-Shit/the_code.git)
 but actuallydon't do that!
 
 my bad;
@@ -21,4 +21,7 @@ do you trust me?
 
 how rash
 
-but if you consent, [Welcome!](github repo)
+but if you consent,
+and you've [done your research](https://paperpile.com/g/find-credible-sources/),
+then,
+[Welcome!](https://github.com/Feeling-Resonant-n-Shit/the_code.git)

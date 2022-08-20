@@ -1,4 +1,5 @@
-#!/bin/bash
+var log = `
+\#!/bin/bash
 
 ls .
 git init
@@ -36,12 +37,12 @@ git pull
 
 
 
-#                       https://github.com/orgs/Feeling-Resonant-n-Shit/repositories/myFirstRepo.git
-# git remote add origin https://github.com/harishrajora805                          /myFirstRepo.git
+\#                       https://github.com/orgs/Feeling-Resonant-n-Shit/repositories/myFirstRepo.git
+\# git remote add origin https://github.com/harishrajora805                          /myFirstRepo.git
 
   git remote add origin https://github.com/orgs/Feeling-Resonant-n-Shit/repositories/myFirstRepo.git
 
-# /* nnnhh */
+\# /* nnnhh */
 
 'nnnnnnghhhh'
 
@@ -124,19 +125,19 @@ git commit -m 'breathe'
 'give yourself space'
 
 
-git add -A;git commit -m'look at the scenery!' ## and don't you worry hun, copypaste!
-# and don't you worry hun
+git add -A;git commit -m'look at the scenery!' \#\# and don't you worry hun, copypaste!
+\# and don't you worry hun
 
-# where'd that bug go?
+\# where'd that bug go?
 
 git remote get-url origin
 git fetch origin
 git status
-# git diff?
-# git add -A
-# # git status
-# git commit -'mwot?'
-# git status
+\# git diff?
+\# git add -A
+\# \# git status
+\# git commit -'mwot?'
+\# git status
 
 git log
 q[Enter]
@@ -149,3 +150,16 @@ git commit -m"[WIP] aye so many bugs i'/ll get to this later"
 git add -A;git commit -m'what is git and what are commits and are you really making me google this?'
 
 git add -A;git commit -m'whoosh'
+
+
+
+\# Let's go.
+git commit -m"Official v1.0.0 release!"
+git reset 7a9e036aacb9
+git add -A
+git commit -m"Official v1.0.0 release!"
+`
+
+console.log('Hello Earth')
+
+/* npm start */

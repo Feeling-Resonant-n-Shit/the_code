@@ -4,6 +4,7 @@
   "description": "'idk stuff'",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "jest"
   },
   "author": "'David Nishikawa'",
